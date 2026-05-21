@@ -8,7 +8,7 @@ This project focuses on clean UI design, dynamic DOM manipulation, and interacti
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://your-live-link-here.com)
+👉 [View Live Project](https://prachibagasi.github.io/bunny-todo-app/)
 
 ---
 
@@ -46,7 +46,7 @@ This project focuses on clean UI design, dynamic DOM manipulation, and interacti
 
 ### Main Interface
 
-![Project Preview](assets/screenshots/dashboard(1).png)
+![Project Preview](assets/screenshots/dashboard.png)
 
 ### Task page
 
@@ -66,8 +66,9 @@ bunny-todo-app/
 │
 ├── assets/
 │   └── screenshots/
-│       └── preview.png
-│
+│       └── dashboard.png
+│       └── tasks.png
+|        
 └── .gitignore
 ```
 
