@@ -8,7 +8,7 @@ This project focuses on clean UI design, dynamic DOM manipulation, and interacti
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://your-live-link-here.com)
+👉 [View Live Project](https://prachibagasi.github.io/bunny-todo-app/)
 
 ---
 
